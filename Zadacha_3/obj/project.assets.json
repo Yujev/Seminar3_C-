@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AlexAlex\\.nuget\\packages\\": {}
+    "C:\\Users\\ustat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_3\\Zadacha_3.csproj",
+      "projectUniqueName": "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_3\\Zadacha_3.csproj",
       "projectName": "Zadacha_3",
-      "projectPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_3\\Zadacha_3.csproj",
-      "packagesPath": "C:\\Users\\AlexAlex\\.nuget\\packages\\",
-      "outputPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_3\\obj\\",
+      "projectPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_3\\Zadacha_3.csproj",
+      "packagesPath": "C:\\Users\\ustat\\.nuget\\packages\\",
+      "outputPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AlexAlex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ustat\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
