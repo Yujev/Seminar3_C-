@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_4\\Zadacha_4.csproj": {}
+    "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_4\\Zadacha_4.csproj": {}
   },
   "projects": {
-    "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_4\\Zadacha_4.csproj": {
+    "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_4\\Zadacha_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_4\\Zadacha_4.csproj",
+        "projectUniqueName": "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_4\\Zadacha_4.csproj",
         "projectName": "Zadacha_4",
-        "projectPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_4\\Zadacha_4.csproj",
-        "packagesPath": "C:\\Users\\AlexAlex\\.nuget\\packages\\",
-        "outputPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar_3_C#\\Zadacha_4\\obj\\",
+        "projectPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_4\\Zadacha_4.csproj",
+        "packagesPath": "C:\\Users\\ustat\\.nuget\\packages\\",
+        "outputPath": "C:\\Education\\Seminar\\Seminar_C#\\Seminar3_C-\\Zadacha_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AlexAlex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ustat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
