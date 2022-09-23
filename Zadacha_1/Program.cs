@@ -30,7 +30,7 @@ switch (number)
         }
     default:
         {
-            Console.WriteLine("Такой четверти нет. Будь вниметельней! ");
+            Console.WriteLine("Такой четверти нет. Будь внимательней! ");
             break;
         }
 }
